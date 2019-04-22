@@ -1,0 +1,13 @@
+G:/ThaoTM/Samples/Blockchain/Blockchain.First/bin/Debug/Blockchain.First.exe.config
+G:/ThaoTM/Samples/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.csprojResolveAssemblyReference.cache
+G:/ThaoTM/Samples/Blockchain/Blockchain.First/bin/Debug/Blockchain.First.exe
+G:/ThaoTM/Samples/Blockchain/Blockchain.First/bin/Debug/Blockchain.First.pdb
+G:/ThaoTM/Samples/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.exe
+G:/ThaoTM/Samples/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.pdb
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/bin/Debug/Blockchain.First.exe.config
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/bin/Debug/Blockchain.First.exe
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/bin/Debug/Blockchain.First.pdb
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.csprojAssemblyReference.cache
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.csproj.CoreCompileInputs.cache
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.exe
+/Users/thaotm/Downloads/Blockchain/Blockchain.First/obj/Debug/Blockchain.First.pdb

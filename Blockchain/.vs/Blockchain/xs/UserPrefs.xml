@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E25455EA-5C8F-4BFE-8190-E1564793A815}|Default">
+  <MonoDevelop.Ide.ItemProperties.Blockchain.First PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blockchain.First/Program.cs">
+    <Files>
+      <File FileName="Blockchain.First/Utils/DatetimeHandle.cs" Line="1" Column="14" />
+      <File FileName="Blockchain.First/Program.cs" Line="10" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blockchain" expanded="True">
+            <Node name="Blockchain.First" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Utils" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
